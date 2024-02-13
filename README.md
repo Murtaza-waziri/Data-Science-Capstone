@@ -28,6 +28,6 @@ To explore the project materials, navigate to the respective directories for lab
 
 The project relies on common data science libraries such as pandas, NumPy, scikit-learn, and Plotly. Ensure that these dependencies are installed to run the code successfully.
 
-## Contributors
+## Contributor
 
 - Murtaza Waziri
